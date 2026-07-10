@@ -27,7 +27,6 @@ Human-Tracking-and-Bus-Passenger-Counting-Pipeline/
 ├── pipeline_2.py
 ├── requirements.txt
 ├── README.md
-└── LICENSE
 ```
 
 ---
